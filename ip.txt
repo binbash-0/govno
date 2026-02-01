@@ -1,2 +1,1 @@
-turkey228337q-36642.portmap.host
-36642
+turkey228337q-36642.portmap.host:36642
